@@ -46,14 +46,14 @@ function hide() {
     contactIcon.classList.add("showIcon");
 }
 firstPlatform.addEventListener('click',()=>{
-    window.open("https://twitter.com/_aka5h");
+    window.open("https://www.instagram.com/its.areeb_/");
 });
 secondPlatform.addEventListener('click',()=>{
-    window.open("mailto:akash03rai@gmail.com");
+    window.open("mailto:areebameerkhan@gmail.com");
 });
 thirdPlatform.addEventListener('click',()=>{
-    window.open("https://github.com/i-aka5h");
+    window.open("https://github.com/Areeb391");
 });
 fourthPlatform.addEventListener('click',()=>{
-    window.open("https://www.linkedin.com/in/akash-rai-b13339241/");
+    window.open("https://www.linkedin.com/in/areeb-khan-a57856218/");
 });
